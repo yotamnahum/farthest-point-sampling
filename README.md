@@ -3,7 +3,7 @@ Farthest Point Sampling
 
 Efficient Farthest Point Sampling: A performant Python implementation for subsampling large point clouds without exhaustive distance calculations. This lightweight library is optimized for performance and ease-of-use in large datasets, leveraging the power of NumPy.
 
-![Farthest Point Sampling Example](path/to/your/image.png)
+![Farthest Point Sampling Example](fps.png)
 
 _Example of Farthest Point Sampling (image source: [Minibatch AI Blog](https://minibatchai.com/sampling/2021/08/07/FPS.html))_
 
